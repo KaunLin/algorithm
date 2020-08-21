@@ -1,0 +1,6 @@
+ThreeSum:資料中有沒有3個加起來為0
+SortingArray:比較排序速度
+Slash:找出資料中的折返點
+PCL:資料中是否有3點共線
+MPI:缺少的最小值
+LSP:資料裡所有的最短距離中最長的(BFS)
